@@ -8,9 +8,9 @@ Vrinda Store wants to create a sales report for 2022 to understand their custome
 
 The sales report for 2022 shows that the following customer segment is the most profitable for Vrinda Store:
 
-Women of age group (30-49 yrs)
-Living in Maharashtra, Karnataka, and Uttar Pradesh
-Vrinda Store should target this customer segment with ads, offers, and coupons available on **Amazon, Flipkart, and Myntra**.
+**Women of age group (30-49 yrs)**
+Living in **Maharashtra, Karnataka, and Uttar Pradesh**
+Vrinda Store should target this customer segment with **ads, offers, and coupons** available on **Amazon, Flipkart, and Myntra**.
 
  ### Recommendations
 
