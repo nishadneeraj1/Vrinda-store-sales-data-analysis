@@ -4,7 +4,7 @@
 
 Vrinda Store wants to create a sales report for 2022 to understand their customers and grow more sales in 2023.
 
-###Conclusions 
+### Conclusions
 
 The sales report for 2022 shows that the following customer segment is the most profitable for Vrinda Store:
 
